@@ -29,3 +29,37 @@
 **Link(s) to work**
 1. [Set Default Parameters for Your Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/set-default-parameters-for-your-functions)
 2. [Handle a Rejected Promise with catch](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-rejected-promise-with-catch)
+
+
+
+### Day 4: January 4, 2020 
+##### (Finished ES6) 
+
+**Today's Progress**: Finished ES6 challenges from FreeCodeCamp. 
+
+**Thoughts**: Good recap for me was: Var, let and const keyword.
+
+Doing code everyday helps a lot even if it ain't much some days. To be add I do a course on the side of this for React, and through that course I'm building a e-commerce site. But that is coding a long but still good learning. 
+
+**Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
+
+1. [Compare Scopes of the var and let Keywords](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords)
+
+2. [Mutate an Array Declared with const](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const)
+
+
+### Day 5: January 5, 2020 
+##### (Regular Expressions) 
+
+**Today's Progress**: Started Regular Expression from FreeCodeCamp. 
+
+**Thoughts**: Regex was new for me... let codingRegex = /change/;
+
+Sunday and Christmas holiday is almost over, soon back to full time job and coding on the free time. But today is Sunday so continued with my course and then jumped in to Regular Expressions with FreeCodeCamp.
+
+Getting a hang of it and doing let result = extractStr.match(codingRegex);
+
+**Link(s) to work**: [Regular Expressions: Extract MatchesPassed](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/extract-matches)
+
+
+
