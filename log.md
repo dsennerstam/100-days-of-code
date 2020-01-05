@@ -9,22 +9,23 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 2, 2020 
+##### (Finished Basic JavaScript) 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished Basic JavaScript from FreeCodeCamp. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Have to be honest, it ain't easy but learning a lot by repetition. Looking on "get a Hint" feels sometimes like a failure but after some time well, I am still learning and as I move along. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
 
-### Day 1: June 27, Monday
+### Day 3: January 3, 2020
+##### (Started ES6) 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp and I'm at ES6 now, yay.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Some of the challenges are still hard and using Get me a Hint from time to time but the feeling of cracking it before. Learning to read more carefully will give you the answer. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Set Default Parameters for Your Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/set-default-parameters-for-your-functions)
+2. [Handle a Rejected Promise with catch](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-rejected-promise-with-catch)
