@@ -1,9 +1,9 @@
 # 100 Days Of Code - Log
 
 ### Day 1: December 30, 2019 
-##### (delete me or comment me out)
+##### (Continued with Basic JS)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Continued from where I left of in the fall!
 
 **Thoughts:** I continued where I left of with Basic Javascript and using FreeCodeCamp. I said that I will join 100DaysOfCode in september I think put it took me a while to get started with this. But now I am and I like it. Will catch up with my documentation. 
 
