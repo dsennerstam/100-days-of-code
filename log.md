@@ -61,6 +61,29 @@ Getting a hang of it and doing let result = extractStr.match(codingRegex);
 
 **Link(s) to work**: [Regular Expressions: Extract MatchesPassed](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/extract-matches)
 
-### Day 5: January 6, 2020 
+### Day 6: January 6, 2020 
+##### (Regular Expressions + Debugging) 
+
+**Today's Progress**: Finish Regular Expression and 
+
+**Thoughts**: /^(?=\w{6})(?=\D+\d{2})/; Is hard to grasp right. 
+
+I Regular Expressions Finished at freeCodeCamp but long from ready to use it. Moved to Debugging and it was only 12 challenges so went ahead and started and finished that as well. Using console.log to debugg was fun but not the first time I used it. 
+
+let myArray = [1, 2, 3;
+let arraySum = myArray.reduce((previous, current =>  previous + current);
+console.log(`Sum of array values is: ${arraySum});
+
+Sometimes to find a misspelled or missed '}' can be hard sometimes and I can look forever to find it but I still learned from this passage.  
+
+Now the question is that should I continue with the path freeCodeCamp give me (Basic Data Structures) or? 
+
+
+
+**Link(s) to work**:
+TryThis: [Catch Unclosed Parentheses, Brackets, Braces and QuotesPassed](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes)
+
+### Day 7: January 7, 2020 
+
 
 
