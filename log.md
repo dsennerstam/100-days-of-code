@@ -61,5 +61,6 @@ Getting a hang of it and doing let result = extractStr.match(codingRegex);
 
 **Link(s) to work**: [Regular Expressions: Extract MatchesPassed](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/extract-matches)
 
+### Day 5: January 6, 2020 
 
 
