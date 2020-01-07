@@ -89,6 +89,9 @@ TryThis: [Catch Unclosed Parentheses, Brackets, Braces and QuotesPassed](https:/
 **Today's Progress**: Learning about Arrays [], unshift() pop() push() and others.
 
 **Thoughts** 
+Did parts of Data Structures from freecodecamp. Some new some familiar topics. One thing I notice when I code along and trying to be fast, spelling wrong or missing the ({});. 
+
+Below is a challenge, check it out. 
 
 
 **CodeCopied from freeCodeCamp**
