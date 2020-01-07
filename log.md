@@ -66,7 +66,7 @@ Getting a hang of it and doing let result = extractStr.match(codingRegex);
 
 **Today's Progress**: Finish Regular Expression and 
 
-**Thoughts**: /^(?=\w{6})(?=\D+\d{2})/; Is hard to grasp right. 
+**Thoughts**: /^(?=\w{6})(?=\D+\d{2})/; Is hard to grasp right now. 
 
 I Regular Expressions Finished at freeCodeCamp but long from ready to use it. Moved to Debugging and it was only 12 challenges so went ahead and started and finished that as well. Using console.log to debugg was fun but not the first time I used it. 
 
@@ -84,6 +84,30 @@ Now the question is that should I continue with the path freeCodeCamp give me (B
 TryThis: [Catch Unclosed Parentheses, Brackets, Braces and QuotesPassed](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes)
 
 ### Day 7: January 7, 2020 
+##### (Basic Data Structures) 
+
+**Today's Progress**: Learning about Arrays [], unshift() pop() push() and others.
+
+**Thoughts** 
 
 
+**CodeCopied from freeCodeCamp**
+
+Basic Data Structures: Add Items Using splice()
+
+function htmlColorNames(arr) {
+  // change code below this line
+    const startIndex = 0; // this is just o show what is done. 
+    const amountToDelete = 2;
+    arr.splice(startIndex, amountToDelete, 'DarkSalmon', 'BlanchedAlmond')
+    // arr.splice(0, 2, 'DarkSalmon', 'BlanchedAlmond') This solves the issue.
+  // change code above this line
+  return arr;
+
+}
+
+// do not change code below this line
+console.log(htmlColorNames(['DarkGoldenRod', 'WhiteSmoke', 'LavenderBlush', 'PaleTurqoise', 'FireBrick']));
+
+[Basic Data Structures: Add Items Using splice()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-using-splice)
 
