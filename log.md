@@ -114,3 +114,19 @@ console.log(htmlColorNames(['DarkGoldenRod', 'WhiteSmoke', 'LavenderBlush', 'Pal
 
 [Basic Data Structures: Add Items Using splice()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-using-splice)
 
+### Day 8: January 8, 2020 
+##### (Basic Data Structures) 
+
+**Today's Progress**: Finished Basic Data Structures
+
+**Thoughts** 
+I do have a long journey ahead and lots of practice case thats when I learn at lest. 
+
+The freecodecamp has a good structure where every sections gets harder along the way. 
+
+Below is the last part of BBasic Data Structures, enjoy. 
+
+[Basic Data Structures: Modify an Array Stored in an ObjectPassed](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
+
+### Day 9: January 9, 2020 
+##### (Basic Algorithm Scripting - maybe) 
