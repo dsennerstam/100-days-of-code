@@ -202,3 +202,42 @@ ReactDOM.render(<MyComponent />,document.getElementById('challenge-node'))
 2. [ReactDOM, render](https://reactjs.org/docs/react-dom.html)
 
 
+### Day 13: January 13, 2020 
+##### (React - FreeCodeCamp)
+
+ **Today's Progress**: Continued with React @ FreeCodeCamp. 
+
+**Thoughts** 
+
+Slowly going through the foundation of React. 
+
+Frustration that it takes long time to get it but repetition is a key. 
+
+### Day 14: January 14, 2020 
+##### (React - FreeCodeCamp)
+
+ **Today's Progress**: Continued with React @ FreeCodeCamp. 
+
+**Thoughts** 
+
+Getting the foundation in through. I will see where I'm at day 100 :-) 
+
+class StatefulComponent extends React.Component {
+  constructor(props) {
+    super(props);
+    // initialize state here
+    this.state = {
+      name : "Name"
+    }
+  }
+  render() {
+    return (
+      <div>
+        <h1>{this.state.name}</h1>
+      </div>
+    );
+  }
+};
+
+
+**Link(s) to work**: [Component State](https://reactjs.org/docs/faq-state.html)
