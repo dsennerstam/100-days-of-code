@@ -129,4 +129,76 @@ Below is the last part of BBasic Data Structures, enjoy.
 [Basic Data Structures: Modify an Array Stored in an ObjectPassed](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
 
 ### Day 9: January 9, 2020 
-##### (Basic Algorithm Scripting - maybe) 
+##### (Sass - FreeCodeCamp)
+
+**Today's Progress**: Started with Sass today. 
+
+**Thoughts** 
+
+I have seen SCSS in a course I am taking but thought I would take some challenges in freecodecamp to get a understanding of it. 
+
+Hopefully some more info of it tomorrow day 10 :-) 
+
+### Day 10: January 10, 2020 
+##### (Sass - FreeCodeCamp)
+
+ **Today's Progress**: Continued with SASS
+
+**Thoughts** 
+
+Reading about Sass today to get an understanding. 
+
+Moving on to day 11 :-) Later I will at some good links :-) 
+
+
+
+
+
+### Day 11: January 11, 2020 
+##### (Sass - FreeCodeCamp)
+
+ **Today's Progress**: Finished SASS
+
+**Thoughts** 
+
+Not sure I have much to say about it more then it was hard and not fully grasp it :-) 
+
+
+### Day 12: January 12, 2020 
+##### (React - FreeCodeCamp)
+
+ **Today's Progress**: Started with React @ FreeCodeCamp. 
+
+**Thoughts** 
+
+Good to lay the foundation for React with FreeCodeCamp. 
+The courses I have taken so far on React has been good but so far it goes through the foundation of React so fast so it is easy to forget the reason of constructor, super and ReactDOM. 
+
+
+
+Does this make any sens: 
+
+class MyComponent extends React.Component {
+    constructor(props) {
+    super(props);
+  }
+  render() {
+    return (
+     <div>
+        <h1>My First React Component!</h1>
+     </div>
+    );
+  }
+  
+};
+
+ReactDOM.render(<MyComponent />,document.getElementById('challenge-node'))
+
+
+**Link(s) to work**: [React: Write a React Component from ScratchPassed](https://www.freecodecamp.org/learn/front-end-libraries/react/write-a-react-component-from-scratch)
+
+1. [Component, super](https://reactjs.org/docs/react-component.html)
+
+2. [ReactDOM, render](https://reactjs.org/docs/react-dom.html)
+
+
