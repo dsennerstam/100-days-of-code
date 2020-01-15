@@ -178,21 +178,20 @@ The courses I have taken so far on React has been good but so far it goes throug
 
 Does this make any sens: 
 
-class MyComponent extends React.Component {
+class MyComponen extends React.Component {
     constructor(props) {
     super(props);
   }
   render() {
     return (
      <div>
-        <h1>My First React Component!</h1>
+        //<h1>My First React Component!</h1>
      </div>
     );
   }
-  
 };
 
-ReactDOM.render(<MyComponent />,document.getElementById('challenge-node'))
+ReactDOM.render(<MyComponent />,document.getElementById('challenge-node')) 
 
 
 **Link(s) to work**: [React: Write a React Component from ScratchPassed](https://www.freecodecamp.org/learn/front-end-libraries/react/write-a-react-component-from-scratch)
@@ -241,3 +240,23 @@ class StatefulComponent extends React.Component {
 
 
 **Link(s) to work**: [Component State](https://reactjs.org/docs/faq-state.html)
+
+### Day 15: January 15, 2020 
+##### (React - FreeCodeCamp)
+
+ **Today's Progress**: Render State (React)
+
+**Thoughts** 
+
+Looking at this.state and setState.
+
+"React expects you to never modify state directly, instead always use this.setState() when state changes occur."
+
+It would look like something like this. 
+
+this.setState({
+  username: 'Lewis'
+});
+
+
+**Link(s) to challenge at FreeCodeCampo**: [React: Set State with this.setState](https://www.freecodecamp.org/learn/front-end-libraries/react/set-state-with-this.setstate)
